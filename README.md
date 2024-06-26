@@ -5,3 +5,6 @@ Personal configuration for workplace, that includes:
 - yabai - windows manager (https://github.com/koekeishiya/yabai)
 - nvim - TBD
 - tmux - TBD
+
+Ref:
+https://www.josean.com/posts/yabai-setup
