@@ -1,0 +1,39 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+    {
+        "key": "ctrl+l",
+        "command": "workbench.action.nextEditorInGroup"
+    },
+    {
+        "key": "ctrl+h",
+        "command": "workbench.action.previousEditorInGroup"
+    }, 
+    {
+        "key": "ctrl+x",
+        "command": "workbench.action.closeActiveEditor"
+    },    
+    {
+        "key": "shift+cmd+g",
+        "command": "workbench.action.findInFiles"
+    },    
+    {
+        "key": "shift+cmd+f",
+        "command": "-workbench.action.findInFiles"
+    },    
+    {
+        "key": "shift+cmd+r",
+        "command": "workbench.action.replaceInFiles"
+    },    
+    {
+        "key": "shift+cmd+h",
+        "command": "-workbench.action.replaceInFiles"
+    },    
+    {
+        "key": "shift+cmd+f",
+        "command": "workbench.action.quickOpen"
+    },    
+    {
+        "key": "cmd+p",
+        "command": "-workbench.action.quickOpen"
+    }
+]
