@@ -1,7 +1,4 @@
 {
-    "yaml.schemas": {
-        "file:///Users/maciejmarzeta/.vscode/extensions/atlassian.atlascode-3.4.3/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
-    },
     "redhat.telemetry.enabled": true,
     "workbench.colorTheme": "JetBrains Darcula Theme",
     "go.toolsManagement.autoUpdate": true,
