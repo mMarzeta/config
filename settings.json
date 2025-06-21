@@ -1,0 +1,26 @@
+{
+    "yaml.schemas": {
+        "file:///Users/maciejmarzeta/.vscode/extensions/atlassian.atlascode-3.4.3/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+    },
+    "redhat.telemetry.enabled": true,
+    "workbench.colorTheme": "JetBrains Darcula Theme",
+    "go.toolsManagement.autoUpdate": true,
+    "telemetry.telemetryLevel": "off",
+    "python.createEnvironment.contentButton": "show",
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "editor.minimap.renderCharacters": false,
+    "editor.minimap.enabled": false,
+    "github.copilot.editor.enableAutoCompletions": true,
+    "git.autofetch": true,
+    "makefile.configureOnOpen": true,
+    "chat.editing.alwaysSaveWithGeneratedChanges": true,
+    "window.commandCenter": false,
+    "workbench.panel.showLabels": false,
+    "githubPullRequests.terminalLinksHandler": "github",
+    "workbench.iconTheme": "vscode-jetbrains-icon-theme-2023-dark",
+    "window.autoDetectColorScheme": true,
+    "workbench.preferredLightColorTheme": "PyCharm Night Theme",
+    "workbench.preferredDarkColorTheme": "PyCharm Dark+ Theme",
+    "workbench.preferredHighContrastColorTheme": "PyCharm Dark+ Theme",
+    "workbench.preferredHighContrastLightColorTheme": "JetBrains Rider New UI Light"
+}
